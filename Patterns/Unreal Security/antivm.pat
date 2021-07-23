@@ -1,7 +1,7 @@
 3 "antivm" "" "SbieDll\.dll"
 3 "antivm" "" "VMware" f
 3 "antivm" "" "XenD"
-3 "antivm" "VirtualBox" "vboxhook.dll"
+3 "antivm" "VirtualBox" "vboxhook\.dll"
 3 "antivm" "VirtualBox" "VirtualBox"
 3 "antivm" "Known virtual machine identifier" "76487\-640\-1457236\-23837"
 3 "antivm" "Known virtual machine identifier" "76487\-337\-8429955\-22614"
