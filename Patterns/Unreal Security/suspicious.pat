@@ -13,5 +13,6 @@
 3 "suspicious" "" "shadowcopy delete"
 3 "suspicious" "" "delete shadows( \/all \/quiet)?"
 3 "suspicious" "" "ReflectiveLoader"
-3 "suspicious" "" "powershell.*bypass.*\-EncodedCommand " fi
+3 "suspicious" "" "powershell(.*bypass.*-encodedcommand) " fi
+3 "suspicious" "" "powershell .*-enc " fi
 3 "suspicious" "" "System\.(BadImageFormatException|Reflection\.TargetInvocationException)" f
