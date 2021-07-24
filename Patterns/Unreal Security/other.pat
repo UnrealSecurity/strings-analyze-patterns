@@ -2,13 +2,14 @@
 
 0 "other" "" "(AForge\.Video|VideoCaptureDevice)"
 2 "other" "Potential PDB path" "[A-Z]\:(\/|\\\\)[A-z0-9 \.\;\-_]+\.pdb$"
-2 "other" "NullSoft Scriptable Install System" "NullsoftInst|nsisinstall"
-2 "other" "WinRAR Self-Extracting Archive" "WinRAR SFX"
-3 "other" "AutoIt Script" "AutoIt v3"
 0 "other" "" "<requestedExecutionLevel\s+level=\"[A-z]+\".*>"
 0 "other" "" "remote desktop" i
 0 "other" "" "shell session" i
-1 "other" "Go language runtime" "^golang\.org/x/" f
+
+2 "other" "NullSoft Scriptable Install System" "NullsoftInst|nsisinstall"
+2 "other" "WinRAR Self-Extracting Archive" "WinRAR SFX"
+3 "other" "AutoIt Script" "AutoIt v3"
+0 "other" "Golang runtime" "^golang\.org/x/" f
 
 0 "windowing" "" "SetParent"
 
