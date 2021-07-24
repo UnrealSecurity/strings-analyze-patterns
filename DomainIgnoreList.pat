@@ -1,0 +1,9 @@
+^(.*\.)?microsoft\.com$
+^(.*\.)?w3\.org
+^(.*\.)?xmlsoap\.org$
+^(.*\.)?verisign\.com$
+^(.*\.)?aka\.ms$
+^(.*\.)?apache\.org$
+^(.*\.)?exslt\.org$
+^(.*\.)?apache\.org$
+^(.*\.)?windowsupdate\.com$
