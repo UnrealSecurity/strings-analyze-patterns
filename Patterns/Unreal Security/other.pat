@@ -50,7 +50,5 @@
 3 "other" "" "CopyFromScreen"
 3 "other" "" "capGetDriverDescriptionA"
 
-2 "other" "XMRig miner option" "\-\-donate\-level\=" f
-
 0 "other" "" "loader" fi
 1 "other" "" "beacon|listener" fi
