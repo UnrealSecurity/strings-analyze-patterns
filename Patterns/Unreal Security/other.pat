@@ -8,6 +8,7 @@
 0 "other" "" "<requestedExecutionLevel\s+level=\"[A-z]+\".*>"
 0 "other" "" "remote desktop" i
 0 "other" "" "shell session" i
+1 "other" "Go language runtime" "^golang\.org/x/" f
 
 0 "windowing" "" "SetParent"
 
@@ -48,3 +49,6 @@
 3 "other" "" "capGetDriverDescriptionA"
 
 2 "other" "XMRig miner option" "\-\-donate\-level\=" f
+
+0 "other" "" "loader" fi
+1 "other" "" "beacon|listener" fi
