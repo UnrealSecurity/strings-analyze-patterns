@@ -9,3 +9,5 @@
 0 "memory" "" "Heap(Re)?Alloc"
 0 "memory" "" "Heap(Create|Free|SetInformation|Size)"
 0 "memory" "" "GetProcessHeap"
+
+0 "memory" "" "OpenFileMappingW?"

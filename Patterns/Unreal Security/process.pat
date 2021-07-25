@@ -17,3 +17,4 @@
 1 "process" "" "(Zw)?ResumeThread"
 1 "process" "" "(Zw)?SuspendThread"
 1 "process" "" "(Zw)?SuspendProcess"
+1 "process" "" "RtlSetProcessIsCritical"

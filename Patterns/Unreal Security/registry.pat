@@ -25,7 +25,7 @@
 0 "registry" "" "(Zw)?CreateKey"
 0 "registry" "" "(Zw)?OpenKey"
 0 "registry" "" "(Zw)?SetValueKey"
-0 "registry" "" "(Nt)?DeleteValueKey"
+0 "registry" "" "Reg(Query|Create|Open)(Key|Value)(Ex)?(A|W)?"
 
 3 "registry" "" "\\\\HARDWARE\\\\DESCRIPTION\\\\SYSTEM\\\\CENTRALPROCESSOR\\\\" fi
     1 "other" "" "ProcessorNameString"
