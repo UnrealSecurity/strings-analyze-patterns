@@ -6,6 +6,8 @@
 3 "suspicious" "Chrome saved passwords" "\\\\Google\\\\Chrome\\\\User Data"
 
 3 "suspicious" "Opera browser saved passwords" "\\\\Opera Stable\\\\Login Data"
+
+
 3 "suspicious" "Internet Explorer saved passwords" "\\\\Internet Explorer\\\\IntelliForms\\\\"
 
 3 "suspicious" "Firefox saved passwords" "Mozilla\\\\Firefox\\\\Profiles|moz_logins"
@@ -29,6 +31,8 @@
 3 "suspicious" "Thunderbird credentials" "SOFTWARE\\\\Mozilla\\\\Thunderbird"
 
 3 "suspicious" "Yandex browser saved passwords" "\\\\YandexBrowser\\\\User Data\\\\Default\\\\Login Data"
+3 "suspicious" "Yandex browser saved passwords" "Yandex\\\\YandexBrowser\\\\User Data"
+
 3 "suspicious" "Microsoft Edge saved passwords" "\\\\Microsoft\\\\Edge\\\\User Data\\\\Default\\\\Login Data"
 
 3 "suspicious" "Discord saved authorization token" "\\\\discord\\\\Local Storage\\\\leveldb\\\\"
@@ -41,3 +45,6 @@
 3 "suspicious" "Microsoft Outlook saved accounts" "Software\\\\Microsoft\\\\Office\\\\Outlook\\\\OMI Account Manager\\\\Accounts"
 3 "suspicious" "PuTTY saved sessions" "Software\\\\SimonTatham\\\\PuTTY\\\\Sessions"
 3 "suspicious" "Growtopia save data" "\\\\Growtopia\\\\save\.dat"
+
+3 "suspicious" "Brave Browser saved password" "BraveSoftware\\\\Brave\-Browser\\\\User Data"
+

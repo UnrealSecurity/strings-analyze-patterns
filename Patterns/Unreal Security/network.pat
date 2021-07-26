@@ -1,4 +1,4 @@
-0 "network" "" "System\.Net"
+0 "network" "" "System\.Net(\.NetworkInformation)"
 0 "network" "" "WebClient"
 0 "network" "" "WebRequest"
 0 "network" "" "HttpRequestHeaders"

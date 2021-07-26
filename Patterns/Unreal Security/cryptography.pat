@@ -1,4 +1,4 @@
-0 "cryptography" "" "System\.Security\.Cryptography"
+0 "cryptography" "" "System\.Security\.Cryptography(\.X509Certificates)"
 0 "cryptography" "" "BCrypt(Open|Close)AlgorithmProvider"
 0 "cryptography" "" "BCrypt(Set|Get)Property"
 0 "cryptography" "" "BCryptDestroyKey"
@@ -8,3 +8,4 @@
 0 "cryptography" "" "ComputeHash"
 0 "cryptography" "" "Rijndael"
 0 "cryptography" "" "CryptStringToBinary"
+0 "cryptography" "CNG API" "Microsoft Primitive Provider"
