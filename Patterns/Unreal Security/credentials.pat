@@ -30,7 +30,10 @@
 
 3 "suspicious" "Yandex browser saved passwords" "\\\\YandexBrowser\\\\User Data\\\\Default\\\\Login Data"
 3 "suspicious" "Microsoft Edge saved passwords" "\\\\Microsoft\\\\Edge\\\\User Data\\\\Default\\\\Login Data"
+
 3 "suspicious" "Discord saved authorization token" "\\\\discord\\\\Local Storage\\\\leveldb\\\\"
+3 "suspicious" "Discord saved authorization token" "\/\/Discord\/\/Local Storage\/\/leveldb\/\/"
+
 3 "suspicious" "Telegram user data" "\\\\Telegram Desktop\\\\tdata\\\\"
 3 "suspicious" "Steam user data" "Software\\\\Valve\\\\Steam"
 3 "suspicious" "Windows Explorer saved FTP credentials" "Software\\\\Microsoft\\\\Ftp\\\\Accounts"
