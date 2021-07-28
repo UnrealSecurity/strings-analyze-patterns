@@ -6,10 +6,10 @@
 0 "process" "" "ProcessWindowStyle"
 0 "process" "" "(Nt)?CreateThread"
 0 "process" "" "(Nt)?GetContextThread"
-0 "process" "" "(Nt)?QueueApcThread"
 0 "process" "" "GetModule(FileName|Handle)W"
 0 "process" "" "GetEnvironmentStringsW"
 
+1 "process" "" "(Nt)?QueueApcThread"
 1 "process" "" "WriteProcessMemory"
 1 "process" "" "ReadProcessMemory"
 1 "process" "" "OpenProcessToken"

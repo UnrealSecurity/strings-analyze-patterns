@@ -4,6 +4,7 @@
 3 "dyndns" "" "[A-z0-9\-]+\.dyn\.com"
 3 "dyndns" "" "[A-z0-9\-]+\.no-ip\.com"
 3 "dyndns" "" "[A-z0-9\-]+\.noip\.com"
+3 "dyndns" "" "[A-z0-9\-]+\.hopto\.org"
 3 "dyndns" "" "[A-z0-9\-]+\.changeip\.com"
 3 "dyndns" "" "[A-z0-9\-]+\.afraid\.org"
 3 "dyndns" "" "[A-z0-9\-]+\.duckdns\.org"
