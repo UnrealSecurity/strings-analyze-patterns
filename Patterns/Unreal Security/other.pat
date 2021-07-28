@@ -52,3 +52,6 @@
 
 0 "other" "" "loader" fi
 1 "other" "" "beacon|listener" fi
+
+1 "microphone" "The waveInStart function starts input on the given waveform-audio input device" "waveInStart"
+1 "microphone" "The waveInOpen function opens the given waveform-audio input device for recording" "waveInOpen"

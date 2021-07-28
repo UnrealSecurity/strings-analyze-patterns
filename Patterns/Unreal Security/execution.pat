@@ -12,6 +12,7 @@
 1 "execution" "" "GetCurrentProcess"
 1 "execution" "" "GetProcesses(ByName)?"
 0 "execution" "" "^Sleep$"
+0 "execution" "" "GetModuleHandle(Ex)?W"
 
 1 "execution" "Gets the assembly that contains the code that is currently executing" "GetExecutingAssembly"
     0 "execution" "" "MethodInfo"

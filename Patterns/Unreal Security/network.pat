@@ -13,5 +13,6 @@
 0 "network" "" "InternetReadFile"
 0 "network" "" "InternetCloseHandle"
 0 "network" "" "Proxy(Bypass|Server)"
+0 "network" "" "URL(DownloadToFile|OpenBlockingStream)W"
 
 1 "network" "" "Resolved hostname .* to .[^\s]*" fi

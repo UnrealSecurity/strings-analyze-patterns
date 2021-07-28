@@ -9,3 +9,4 @@
 0 "cryptography" "" "Rijndael"
 0 "cryptography" "" "CryptStringToBinary"
 0 "cryptography" "CNG API" "Microsoft Primitive Provider"
+0 "cryptography" "" "SHA256|ECDSA|TLS13|AES128" f

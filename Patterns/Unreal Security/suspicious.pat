@@ -1,6 +1,6 @@
 3 "suspicious" "Base64 encoded executable file" "TVqQAAMAAAAEAAAA[A-z0-9+\/=]*"
 3 "suspicious" "" "Disable(Regedit|TaskManager|Webcam|Mouse|Keyboard)|(Swap|Reverse)Mouse" i
-3 "suspicious" "" "(Ob)Fuscator|Confuser(Ex)|Themida|Crypter|Agile\.NET" fi
+3 "suspicious" "" "(Ob)Fuscator|Themida|Crypter" fi
 3 "suspicious" "" "Stealer|Keylogger|Trojan|Backdoor" fi
 3 "suspicious" "" "credit.?card" fi
 3 "suspicious" "" "\\\\AppData\\\\Local\\\\Temp\\\\.*\.(pif|scr|exe|vbs|bat|ps1)" i
