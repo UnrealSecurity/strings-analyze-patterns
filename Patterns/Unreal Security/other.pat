@@ -17,7 +17,7 @@
 
 0 "keyboard-and-mouse" "" "BlockInput"
 0 "keyboard" "" "GetKeyboard(Layout|State)"
-3 "keyboard" "" "GetAsyncKeyState"
+3 "keyboard" "" "(Get|gaf)AsyncKeyState"
 1 "keyboard" "" "MapVirtualKey"
 3 "mouse" "Synthesizes mouse motion and button clicks" "mouse_event"
 3 "keyboard" "Synthesizes keystrokes" "keybd_event"
