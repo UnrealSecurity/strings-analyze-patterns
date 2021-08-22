@@ -1,4 +1,5 @@
-3 "suspicious" "Base64 encoded executable file" "TVqQAAMAAAAEAAAA[A-z0-9+\/=]*"
+3 "suspicious" "Base64 encoded executable file" "^TVqQAAMAAAAEAAAA[A-z0-9+\/=]*"
+3 "suspicious" "Hex encoded executable file" "^4D5A900003000000040000" fi
 3 "suspicious" "" "Disable(Regedit|TaskManager|Webcam|Mouse|Keyboard)|(Swap|Reverse)Mouse" i
 3 "suspicious" "" "(Ob)Fuscator|Themida|Crypter" fi
 3 "suspicious" "" "Stealer|Keylogger|Trojan|Backdoor" fi
