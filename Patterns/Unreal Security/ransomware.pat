@@ -27,6 +27,6 @@
 3 "ransomware" "" "your data without a special key" fi
 3 "ransomware" "" "purchase your key and restore your (data|files)" fi
 3 "ransomware" "" "you[a-z ]+victim[a-z ]+ransomware" fi
-3 "ransomware" "" "(buy|purchase)[a-z ]+(key|decrypt.r)[a-z ]+(dark|deep)(net|web)"
-3 "ransomware" "" "All your (\w+,? ?)+files are encrypted" fi
+3 "ransomware" "" "(buy|purchase)[a-z ]+(key|decrypt.r)[a-z ]+(dark|deep)(net|web)" fi
+3 "ransomware" "" "All your .* files are encrypted" fi
 3 "ransomware" "" "only we can recover your files" fi
