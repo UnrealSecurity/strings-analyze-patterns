@@ -9,6 +9,10 @@
 2 "other" "NullSoft Scriptable Install System" "NullsoftInst|nsisinstall"
 2 "other" "WinRAR Self-Extracting Archive" "WinRAR SFX"
 3 "other" "AutoIt Script" "AutoIt v3"
+
+3 "other" "AutoHotkey Script" "\>AUTOHOTKEY SCRIPT\<"
+3 "other" "AutoHotkey Command" "Run, .[^<>:"\\\/|?*]+\.(exe|pif|com),"
+
 0 "other" "Golang runtime" "^golang\.org/x/" f
 
 0 "windowing" "" "SetParent"
