@@ -1,3 +1,10 @@
+# Known ransomware
+4 "ransomware" "GandCrab" "GANDCRAB V\{V\}"
+    4 "ransomware" "GandCrab" "\.gandcrab" f
+    4 "ransomware" "GandCrab" "\-\-\-(BEGIN|END) GANDCRAB KEY\-\-\-"
+4 "ransomware" "WannaCry ransomware" "Wana Decrypt0r"
+
+# Ransom note strings
 3 "ransomware" "" "your (important|personal) files are encrypted" fi
 3 "ransomware" "" "last chance to decrypt your files" fi
 3 "ransomware" "" "any attempt to remove or corrupt this software will result" fi
@@ -21,3 +28,5 @@
 3 "ransomware" "" "purchase your key and restore your (data|files)" fi
 3 "ransomware" "" "you[a-z ]+victim[a-z ]+ransomware" fi
 3 "ransomware" "" "(buy|purchase)[a-z ]+(key|decrypt.r)[a-z ]+(dark|deep)(net|web)"
+3 "ransomware" "" "All your (\w+,? ?)+files are encrypted" fi
+3 "ransomware" "" "only we can recover your files" fi
