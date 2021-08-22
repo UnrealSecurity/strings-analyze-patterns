@@ -11,7 +11,7 @@
 3 "other" "AutoIt Script" "AutoIt v3"
 
 3 "other" "AutoHotkey Script" "\>AUTOHOTKEY SCRIPT\<"
-3 "other" "AutoHotkey Command" "Run, .[^<>:"\\\/|?*]+\.(exe|pif|com),"
+3 "other" "AutoHotkey Command" "Run, .[^<>:\"\\\\/|?*]+\.(exe|pif|com),"
 
 0 "other" "Golang runtime" "^golang\.org/x/" f
 
