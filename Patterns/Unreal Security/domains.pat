@@ -6,6 +6,7 @@
 3 "suspicious" "" "ip-score\.com"
 3 "suspicious" "" "freegeoip\.app"
 3 "suspicious" "" "tools.keycdn\.com"
+3 "suspicious" "" "httpbin\.org"
 
 # Message API
 3 "suspicious" "" "discord(app)?\.com"
