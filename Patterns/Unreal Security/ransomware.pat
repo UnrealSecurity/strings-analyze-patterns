@@ -15,7 +15,7 @@
 3 "ransomware" "" "to decrypt all your files, you need to pay" fi
 3 "ransomware" "" "we quarantee that you can recover all your files" fi
 3 "ransomware" "" "decrypt some of your files for free" fi
-3 "ransomware" "" "nobody can recover your files" fi
+3 "ransomware" "" "nobody can (decrypt|recover) your files" fi
 3 "ransomware" "" "oo+ps, your files" fi
 3 "ransomware" "" "you have to pay for decryption" fi
 3 "ransomware" "" "all your files have been encrypted" fi
@@ -28,5 +28,6 @@
 3 "ransomware" "" "purchase your key and restore your (data|files)" fi
 3 "ransomware" "" "you[a-z ]+victim[a-z ]+ransomware" fi
 3 "ransomware" "" "(buy|purchase)[a-z ]+(key|decrypt.r)[a-z ]+(dark|deep)(net|web)" fi
-3 "ransomware" "" "All your .* files are encrypted" fi
+3 "ransomware" "" "All your .* files (are|have been) encrypted" fi
 3 "ransomware" "" "only we can recover your files" fi
+3 "ransomware" "" "do(n\'t| not) try to get rid of this program"
