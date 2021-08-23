@@ -18,4 +18,4 @@
 3 "suspicious" "" "powershell .*-enc " fi
 3 "suspicious" "" "System\.(BadImageFormatException|Reflection\.TargetInvocationException)" f
 3 "suspicious" "Discord token regex pattern" "\[\\\\w\-\]\{24\}\\\\\.\[\\\\w\-\]\{6\}\\\\\.\[\\\\w\-\]\{27\}"
-    3 "suspicious" "Discord token regex pattern" "mfa\\\\\.[\\\\w\-\]\{84\}"
+    3 "suspicious" "Discord token regex pattern" "mfa\\\\\.\[\\\\w\-\]\{84\}"
