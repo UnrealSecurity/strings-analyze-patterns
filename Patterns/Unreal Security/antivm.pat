@@ -1,8 +1,11 @@
-3 "antivm" "" "SbieDll\.dll"
-3 "antivm" "" "VMware" f
-3 "antivm" "" "XenD"
-3 "antivm" "VirtualBox" "vboxhook\.dll"
-3 "antivm" "VirtualBox" "VirtualBox"
+3 "antivm" "Sandboxie" "SbieDll\.dll"
+3 "antivm" "" "VMware" fi
+3 "antivm" "" "XenD" f
+3 "antivm" "" "innotek gmbh" fi
+3 "antivm" "" "^qemu$" i
+3 "antivm" "VirtualBox" "virtualbox" fi
+3 "antivm" "VirtualBox" "vboxhook\.dll" f
+3 "antivm" "VirtualBox" "HARDWARE\\\\ACPI\\\\DSDT\\\\VBOX" f
 3 "antivm" "Known virtual machine identifier" "76487\-640\-1457236\-23837"
 3 "antivm" "Known virtual machine identifier" "76487\-337\-8429955\-22614"
 3 "antivm" "Known virtual machine identifier" "76487\-644\-3177037\-23510"
