@@ -18,3 +18,5 @@
 1 "process" "" "(Zw)?SuspendThread"
 1 "process" "" "(Zw)?SuspendProcess"
 1 "process" "" "RtlSetProcessIsCritical"
+
+1 "process" "Process enumeration" "^Process32Next$"
