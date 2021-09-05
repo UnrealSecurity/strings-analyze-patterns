@@ -4,5 +4,6 @@
 3 "management" "" "SELECT \* FROM FirewallProduct" i
 3 "management" "" "winmgmts\:\\\\\.\\root\\\\SecurityCenter2" i
 3 "management" "" "root\SecurityCenter"
-
+3 "management" "" "WMI\.ExecQuery" f
 1 "management" "" "(wmic|WMIC) " f
+
