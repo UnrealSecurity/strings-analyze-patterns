@@ -29,3 +29,4 @@
 3 "dyndns" "" "[A-z0-9\-]+\.pubyun\.com"
 3 "dyndns" "" "[A-z0-9\-]+\.gogoip\.com"
 3 "dyndns" "" "[A-z0-9\-]+\.do\.de"
+3 "dyndns" "" "[A-z0-9\-]+\.playit\.gg"
