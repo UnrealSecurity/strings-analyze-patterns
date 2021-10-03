@@ -24,3 +24,6 @@
 3 "suspicious" "HTTP tunnel" "[A-z0-9\-]+\.telebit\.io"
 3 "suspicious" "HTTP tunnel" "[A-z0-9\-]+\.burrow\.io"
 3 "suspicious" "HTTP tunnel" "[A-z0-9\-]+\.serveo\.net"
+
+# File upload API
+3 "suspicious" "AnonFiles file upload API" "api\.anonfiles\.com"
