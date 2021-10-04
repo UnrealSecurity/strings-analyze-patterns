@@ -16,3 +16,6 @@
 0 "network" "" "URL(DownloadToFile|OpenBlockingStream)W"
 
 1 "network" "" "Resolved hostname .* to .[^\s]*" fi
+
+0 "network" "Mail client" "Mail(AddressCollection|Client)\." f
+    0 "network" "Mail client" "Smtp(Client|Connection)" f
