@@ -7,7 +7,7 @@
 1 "execution" "" "Invoke\-[A-z]+"
 0 "execution" "" "NtQueryInformationProcess"
 0 "execution" "" "GetTickCount(64)?"
-0 "execution" "" "(Load|Free)Library"
+0 "execution" "" "(Free|Load)Library" f
 0 "execution" "" "LdrGetProcedureAddress"
 0 "execution" "" "GetProcAddress"
 0 "execution" "" "set_UseShellExecute"
