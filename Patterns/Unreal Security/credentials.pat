@@ -44,7 +44,7 @@
 3 "suspicious" "" "Software\\\\Microsoft\\\\Internet Account Manager\\\\Accounts"
 3 "suspicious" "Microsoft Outlook saved accounts" "Software\\\\Microsoft\\\\Office\\\\Outlook\\\\OMI Account Manager\\\\Accounts"
 3 "suspicious" "PuTTY saved sessions" "Software\\\\SimonTatham\\\\PuTTY\\\\Sessions"
-3 "suspicious" "Growtopia save data" "\\\\Growtopia\\\\save\.dat"
+3 "suspicious" "Growtopia save data" "\\\\Growtopia\\\\save\.dat|tankid_password_$" f
 
 3 "suspicious" "Brave Browser saved password" "BraveSoftware\\\\Brave\-Browser\\\\User Data"
 
